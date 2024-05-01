@@ -7,9 +7,9 @@ Website implements page-based pagination. Serial numbers are assigned to pages t
 # To improve
 - Do something with characters in the hexadecimal format being ignored in cmd. `sys.argv` ignores the `%` separator for the characters and something like `https://joyreactor.cc/tag/%D0%98%D0%B3%D1%80%D1%8B` in the argument won't work as it will be mistakengly interpreted as `https://joyreactor.cc/tag/98B3808B`
 - Check whether threading gives any benefits in spite of substantial delay between requests. Is it enough to make saving fast enough? Is it enough for the requests to work in the background without blocking the main thread?
-- Watermark deletion before saving
+- Introduce watermark deletion before saving
 - Test on older Python versions
 - Test on really big ranges
-- Add docker
 # In future
-- Set it up as web-service
+- Set it up as a web-service
+- Add docker
