@@ -10,6 +10,7 @@ Website implements page-based pagination. Serial numbers are assigned to pages t
 - Introduce watermark deletion before saving
 - Test on older Python versions
 - Test on really big ranges
+- Add saving videos in webm format
 # In future
 - Set it up as a web-service
 - Add docker
