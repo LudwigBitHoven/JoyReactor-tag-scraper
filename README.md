@@ -1,4 +1,4 @@
-# What JoyReactor is?
+# What is JoyReactor?
 joyreactor.cc is a website for hosting different images. Hosted images are grouped by tags like 'cats', 'anime', 'food', which could intersect with each other
 # What is the purpose of the project
 The purpose is to allow anyone to scrape images from the website by a specified tag and range. Images could be used for the machine learning or image processing purposes, as well as they could be used for the simple collecting, researches on the internet culture (there are tons of posts dated by 2009 and earlier) and fulfilling of curiosity
